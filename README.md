@@ -6,8 +6,8 @@ Cache Component
 ## Supported drivers 
 
 The cache component supports following cache drivers:
-* `APC` (http://php.net/manual/en/book.apc.pdf)
-* `Memcache` (http://php.net/manual/en/book.memcache.pdf)
+* `APC` (http://php.net/manual/en/book.apc.php)
+* `Memcache` (http://php.net/manual/en/book.memcache.php)
 
 Based on the selected driver, you'll have to pass different options to the constructor
 
